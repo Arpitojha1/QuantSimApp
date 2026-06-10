@@ -69,7 +69,7 @@ Open `http://localhost:5173` and you're good to go.
 ## How to use it
 
 1. Type a stock ticker in the search bar — `AAPL`, `TSLA`, `RELIANCE.BSE`, `IBM`, etc.
-2. Hit **Run Backtest**
+2. Hit Enter and the bot **Run Backtest** automatically.
 3. Pick your strategy (SMA or EMA) from the dropdown
 4. Read the dashboard — chart, trade log, performance card, and risk metrics all update automatically
 5. Use the **Compare Strategies** panel to see which approach worked better for that specific stock
