@@ -135,12 +135,13 @@ Open `http://localhost:5173` and you're good to go.
 
 ```
 src/
-├── services/
+├── api/
 │   └── priceService.js        # API calls, caching, data normalization
 ├── engine/
 │   ├── indicators.js           # SMA, EMA, RSI, Sharpe Ratio math
-│   ├── crossoverStrategy.js    # BUY/SELL/HOLD signal generation
 │   └── backtestEngine.js       # Virtual wallet and trade simulation
+├── strategies/
+│   ├── crossoverStratergy.js    # BUY/SELL/HOLD signal generation
 ├── components/
 │   └── QuantSimApp.jsx         # Main UI, React state, SVG chart
 └── main.jsx
