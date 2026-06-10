@@ -1,6 +1,13 @@
 # Quant Trading Simulator
 
 A web-based algorithmic trading backtester built with React and Vite. Type in any stock ticker, pick a strategy, and the app simulates what would have happened if a rules-based system had been trading it over the last 5 years — no emotions, just math.
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/9ef3528b-b1d5-4005-8556-803d99342c9e" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/a763b97e-fafd-4197-8a9a-a797493ecda8" />
+<img width="1247" height="451" alt="image" src="https://github.com/user-attachments/assets/1f5b9e82-3319-4602-9411-6444ea312d1e" />
+<img width="1238" height="354" alt="image" src="https://github.com/user-attachments/assets/62cdad01-977d-402a-9295-621eae21e4d1" />
+
+
+
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react) ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat&logo=vite) ![TailwindCSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat&logo=tailwindcss) ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 
